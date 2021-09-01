@@ -1,5 +1,8 @@
 # How to run the DAP Binary Miner notebook
 
+## Files
+* `BMiner.ipynb` contains all the code including the grammar miner and the debug server.
+* `BinaryDebugServer.ipynb` is the file used to run the debug server file generated from `BMiner.ipynb`.
 
 ## Steps
 * Run the `BMiner.ipynb` from the beginning up to the section `Subjects` to generate the file `dapserver.py` and `miner.py`.
